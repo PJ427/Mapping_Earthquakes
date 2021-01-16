@@ -12,12 +12,12 @@ We used the JavaScript and the D3.js library to retrieve the coordinates and mag
 ## Results
 Our task had three deliverables.  The first deliverable displayed the Tectonic Plates, as shown below:
 
-![Tectonic Plates](Deliverable_1.png)
+![Tectonic Plates](https://github.com/PJ427/Mapping_Earthquakes/blob/main/Pics/Deliverable_1.png)
 
 The second deliverable showed only the Major Earthquakes:
 
-![Major Earthquakse](Deliverable_2.png)
+![Major Earthquakse](https://github.com/PJ427/Mapping_Earthquakes/blob/main/Pics/Deliverable_2.png)
 
 With the final delivarable we had to add a third map style.  I chose "Dark":
 
-![Dark Map Style](Deliverable_3.png)
+![Dark Map Style](https://github.com/PJ427/Mapping_Earthquakes/blob/main/Pics/Deliverable_3.png)
